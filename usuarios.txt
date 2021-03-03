@@ -1,2 +1,2 @@
 admin,123456,True
-Juan,Juan123456,False
+juan,juan123456,False
